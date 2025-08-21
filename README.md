@@ -59,6 +59,6 @@ Prescripto centralizes the journey:
 
 ---
 
-## made by Anurag Baveja
+## made by @anuragbaveja
 
    
